@@ -1,0 +1,21 @@
+:root {
+    height: 100%;
+    width: 100%;
+    cursor: none;
+}
+
+#cursor {
+    border: 5px solid black;
+    width: 0.5em;
+    height: 0.5em;
+    border-radius: 1em;
+    position: absolute;
+}
+
+#largeCursor {
+    border: 5px solid black;
+    width: 2em;
+    height: 2em;
+    border-radius: 50%;
+    position: absolute;
+}
